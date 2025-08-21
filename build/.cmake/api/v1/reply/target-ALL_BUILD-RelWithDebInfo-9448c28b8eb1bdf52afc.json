@@ -1,0 +1,36 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"easy/calculator/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "calculator::@457c2ac28c16fa9e71eb"
+		}
+	],
+	"id" : "ALL_BUILD::@457c2ac28c16fa9e71eb",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : "easy/calculator",
+		"source" : "easy/calculator"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

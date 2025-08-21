@@ -1,0 +1,4 @@
+C:/Users/QuanNTT/Documents/c++_project/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/QuanNTT/Documents/c++_project/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/QuanNTT/Documents/c++_project/build/easy/calculator/CMakeFiles/calculator.dir
+C:/Users/QuanNTT/Documents/c++_project/build/easy/calculator/CMakeFiles/ALL_BUILD.dir
