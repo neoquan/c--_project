@@ -216,6 +216,24 @@ calculator_IS_TOP_LEVEL:STATIC=OFF
 calculator_SOURCE_DIR:STATIC=C:/Users/QuanNTT/Documents/c++_project/easy/calculator
 
 //Value Computed by CMake
+concepts_BINARY_DIR:STATIC=C:/Users/QuanNTT/Documents/c++_project/build/easy/concepts
+
+//Value Computed by CMake
+concepts_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+concepts_SOURCE_DIR:STATIC=C:/Users/QuanNTT/Documents/c++_project/easy/concepts
+
+//Value Computed by CMake
+guess_game_BINARY_DIR:STATIC=C:/Users/QuanNTT/Documents/c++_project/build/easy/guess_game
+
+//Value Computed by CMake
+guess_game_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+guess_game_SOURCE_DIR:STATIC=C:/Users/QuanNTT/Documents/c++_project/easy/guess_game
+
+//Value Computed by CMake
 hello_cpp_BINARY_DIR:STATIC=C:/Users/QuanNTT/Documents/c++_project/build/easy/calculator
 
 //Value Computed by CMake
@@ -223,6 +241,15 @@ hello_cpp_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
 hello_cpp_SOURCE_DIR:STATIC=C:/Users/QuanNTT/Documents/c++_project/easy/calculator
+
+//Value Computed by CMake
+to_do_list_BINARY_DIR:STATIC=C:/Users/QuanNTT/Documents/c++_project/build/easy/to_do_list
+
+//Value Computed by CMake
+to_do_list_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+to_do_list_SOURCE_DIR:STATIC=C:/Users/QuanNTT/Documents/c++_project/easy/to_do_list
 
 
 ########################
@@ -309,7 +336,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MT
 CMAKE_MT-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=2
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=5
 //Platform information initialized
 CMAKE_PLATFORM_INFO_INITIALIZED:INTERNAL=1
 //noop for ranlib

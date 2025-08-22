@@ -2,3 +2,9 @@ C:/Users/QuanNTT/Documents/c++_project/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/QuanNTT/Documents/c++_project/build/CMakeFiles/ZERO_CHECK.dir
 C:/Users/QuanNTT/Documents/c++_project/build/easy/calculator/CMakeFiles/calculator.dir
 C:/Users/QuanNTT/Documents/c++_project/build/easy/calculator/CMakeFiles/ALL_BUILD.dir
+C:/Users/QuanNTT/Documents/c++_project/build/easy/guess_game/CMakeFiles/guess_game.dir
+C:/Users/QuanNTT/Documents/c++_project/build/easy/guess_game/CMakeFiles/ALL_BUILD.dir
+C:/Users/QuanNTT/Documents/c++_project/build/easy/to_do_list/CMakeFiles/to_do_list.dir
+C:/Users/QuanNTT/Documents/c++_project/build/easy/to_do_list/CMakeFiles/ALL_BUILD.dir
+C:/Users/QuanNTT/Documents/c++_project/build/easy/concepts/CMakeFiles/concepts.dir
+C:/Users/QuanNTT/Documents/c++_project/build/easy/concepts/CMakeFiles/ALL_BUILD.dir

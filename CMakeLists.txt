@@ -6,3 +6,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # Add subprojects here
 add_subdirectory(easy/calculator)
+add_subdirectory(easy/guess_game)
+add_subdirectory(easy/to_do_list)
+add_subdirectory(easy/concepts)

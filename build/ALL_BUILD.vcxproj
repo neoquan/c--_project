@@ -178,6 +178,18 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{C376E55D-320E-3C6C-9DF1-6CC82B55D9E4}</Project>
       <Name>calculator</Name>
     </ProjectReference>
+    <ProjectReference Include="C:\Users\QuanNTT\Documents\c++_project\build\easy\concepts\concepts.vcxproj">
+      <Project>{9F16A9D2-95C0-37B8-BD8D-BA1EB99FDC69}</Project>
+      <Name>concepts</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\QuanNTT\Documents\c++_project\build\easy\guess_game\guess_game.vcxproj">
+      <Project>{8A2ECC36-FAE2-37E3-9621-94588506CF65}</Project>
+      <Name>guess_game</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\QuanNTT\Documents\c++_project\build\easy\to_do_list\to_do_list.vcxproj">
+      <Project>{B1FEB216-6A87-3F1F-A0A5-A9B80EDDC8F0}</Project>
+      <Name>to_do_list</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
