@@ -186,9 +186,17 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{8A2ECC36-FAE2-37E3-9621-94588506CF65}</Project>
       <Name>guess_game</Name>
     </ProjectReference>
+    <ProjectReference Include="C:\Users\QuanNTT\Documents\c++_project\build\easy\palindrome_checker\palindrome_checker.vcxproj">
+      <Project>{681B05EE-5109-3DA8-88CA-3EAAD29F7CB5}</Project>
+      <Name>palindrome_checker</Name>
+    </ProjectReference>
     <ProjectReference Include="C:\Users\QuanNTT\Documents\c++_project\build\easy\to_do_list\to_do_list.vcxproj">
       <Project>{B1FEB216-6A87-3F1F-A0A5-A9B80EDDC8F0}</Project>
       <Name>to_do_list</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\QuanNTT\Documents\c++_project\build\easy\unordered_map\unordered_map.vcxproj">
+      <Project>{D1FEA978-B40C-393A-9DF9-56BED1D2EF1F}</Project>
+      <Name>unordered_map</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

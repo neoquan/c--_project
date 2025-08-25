@@ -8,3 +8,7 @@ C:/Users/QuanNTT/Documents/c++_project/build/easy/to_do_list/CMakeFiles/to_do_li
 C:/Users/QuanNTT/Documents/c++_project/build/easy/to_do_list/CMakeFiles/ALL_BUILD.dir
 C:/Users/QuanNTT/Documents/c++_project/build/easy/concepts/CMakeFiles/concepts.dir
 C:/Users/QuanNTT/Documents/c++_project/build/easy/concepts/CMakeFiles/ALL_BUILD.dir
+C:/Users/QuanNTT/Documents/c++_project/build/easy/palindrome_checker/CMakeFiles/palindrome_checker.dir
+C:/Users/QuanNTT/Documents/c++_project/build/easy/palindrome_checker/CMakeFiles/ALL_BUILD.dir
+C:/Users/QuanNTT/Documents/c++_project/build/easy/unordered_map/CMakeFiles/unordered_map.dir
+C:/Users/QuanNTT/Documents/c++_project/build/easy/unordered_map/CMakeFiles/ALL_BUILD.dir
