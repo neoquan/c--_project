@@ -4,22 +4,51 @@
 
 using namespace std;
 
-int main() 
+class Account
 {
-    // tạo 1 hash_map là scores.
-    unordered_map<string, int> scores;
+    private:
+        int accountNumber;
+        string owner;
+        double balance;
+    
+    // This is called a member initializer list.
+    // It assigns values to private variables before the constructor body runs.
+    // Account(int accNo, string name, double initialBalance = 0.0) {
+    //     accountNumber = accNo;
+    //      owner = name;
+    //      balance = initialBalance;
+    // }
 
-    scores["Alice"] = 79;
-    scores["Bob"] = 69;
-    scores["Charlie"] = 82;
+    public:
+        Account (int accNo, string name, double initialBal = 0.0)
+            : accountNumber(accNo), owner(name), balance(initialBal) {}
 
-    cout << "Alice: " << scores["Alice"] << endl;
-
-    if (scores.find("Bob") != scores.end()) {
-        cout << "Bob is in the map\n";
+    void deposit (double amount) 
+    {
+        if (amount > 0) {
+            balance += amount;
+            cout << "Deposited " << amount << " into account " << accountNumber << endl;
+        } else {
+            cout << "Invalid deposit amount!\n";
+        }
     }
 
-    for ( auto& pair: scores ) {
-        cout << pair.first << " => " << pair.second << endl;
+    void withdraw (double amount) 
+    {
+        if (amount > 0 && amount <= balance) {
+            balance -= amount;
+            cout << "Withraw " << amount << " from account " << accountNumber << endl;
+        } else {
+            cout << "Invalid withdrawal amount or insufficient balance!\n";
+        }
     }
-}
+
+    // const in functions => This function will NOT modify the object’s data members
+    void checkBalance() const
+    {
+        cout << "Account " << accountNumber << " (" << owner << ") balance: " << balance << endl;
+    }
+
+    int getAccountNumber() const {return accountNumber; }
+
+};
