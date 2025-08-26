@@ -207,6 +207,15 @@ MyMultiProjects_IS_TOP_LEVEL:STATIC=ON
 MyMultiProjects_SOURCE_DIR:STATIC=C:/Users/QuanNTT/Documents/c++_project
 
 //Value Computed by CMake
+bank_account_system_BINARY_DIR:STATIC=C:/Users/QuanNTT/Documents/c++_project/build/medium/bank_account_system
+
+//Value Computed by CMake
+bank_account_system_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+bank_account_system_SOURCE_DIR:STATIC=C:/Users/QuanNTT/Documents/c++_project/medium/bank_account_system
+
+//Value Computed by CMake
 calculator_BINARY_DIR:STATIC=C:/Users/QuanNTT/Documents/c++_project/build/easy/calculator
 
 //Value Computed by CMake
@@ -250,6 +259,15 @@ palindrome_checker_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
 palindrome_checker_SOURCE_DIR:STATIC=C:/Users/QuanNTT/Documents/c++_project/easy/palindrome_checker
+
+//Value Computed by CMake
+student_mng_system_BINARY_DIR:STATIC=C:/Users/QuanNTT/Documents/c++_project/build/medium/student_mng_system
+
+//Value Computed by CMake
+student_mng_system_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+student_mng_system_SOURCE_DIR:STATIC=C:/Users/QuanNTT/Documents/c++_project/medium/student_mng_system
 
 //Value Computed by CMake
 to_do_list_BINARY_DIR:STATIC=C:/Users/QuanNTT/Documents/c++_project/build/easy/to_do_list
@@ -354,7 +372,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MT
 CMAKE_MT-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=7
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=9
 //Platform information initialized
 CMAKE_PLATFORM_INFO_INITIALIZED:INTERNAL=1
 //noop for ranlib

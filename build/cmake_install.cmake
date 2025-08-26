@@ -62,6 +62,16 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("C:/Users/QuanNTT/Documents/c++_project/build/easy/unordered_map/cmake_install.cmake")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/QuanNTT/Documents/c++_project/build/medium/bank_account_system/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/QuanNTT/Documents/c++_project/build/medium/student_mng_system/cmake_install.cmake")
+endif()
+
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
