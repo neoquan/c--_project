@@ -64,6 +64,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
+  include("C:/Users/QuanNTT/Documents/c++_project/build/easy/lambda_usage/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
   include("C:/Users/QuanNTT/Documents/c++_project/build/medium/bank_account_system/cmake_install.cmake")
 endif()
 

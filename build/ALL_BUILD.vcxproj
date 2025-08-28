@@ -190,6 +190,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{8A2ECC36-FAE2-37E3-9621-94588506CF65}</Project>
       <Name>guess_game</Name>
     </ProjectReference>
+    <ProjectReference Include="C:\Users\QuanNTT\Documents\c++_project\build\easy\lambda_usage\lambda_usage.vcxproj">
+      <Project>{7EDAD8E4-04F9-354A-BB8F-0012406AFFAB}</Project>
+      <Name>lambda_usage</Name>
+    </ProjectReference>
     <ProjectReference Include="C:\Users\QuanNTT\Documents\c++_project\build\easy\palindrome_checker\palindrome_checker.vcxproj">
       <Project>{681B05EE-5109-3DA8-88CA-3EAAD29F7CB5}</Project>
       <Name>palindrome_checker</Name>

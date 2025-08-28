@@ -52,6 +52,11 @@
         "vector": "cpp",
         "unordered_map": "cpp",
         "sstream": "cpp",
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "algorithm": "cpp",
+        "iomanip": "cpp",
+        "list": "cpp",
+        "optional": "cpp",
+        "xhash": "cpp"
     }
 }

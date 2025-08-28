@@ -12,6 +12,8 @@ C:/Users/QuanNTT/Documents/c++_project/build/easy/palindrome_checker/CMakeFiles/
 C:/Users/QuanNTT/Documents/c++_project/build/easy/palindrome_checker/CMakeFiles/ALL_BUILD.dir
 C:/Users/QuanNTT/Documents/c++_project/build/easy/unordered_map/CMakeFiles/unordered_map.dir
 C:/Users/QuanNTT/Documents/c++_project/build/easy/unordered_map/CMakeFiles/ALL_BUILD.dir
+C:/Users/QuanNTT/Documents/c++_project/build/easy/lambda_usage/CMakeFiles/lambda_usage.dir
+C:/Users/QuanNTT/Documents/c++_project/build/easy/lambda_usage/CMakeFiles/ALL_BUILD.dir
 C:/Users/QuanNTT/Documents/c++_project/build/medium/bank_account_system/CMakeFiles/bank_account_system.dir
 C:/Users/QuanNTT/Documents/c++_project/build/medium/bank_account_system/CMakeFiles/ALL_BUILD.dir
 C:/Users/QuanNTT/Documents/c++_project/build/medium/student_mng_system/CMakeFiles/student_mng_system.dir
