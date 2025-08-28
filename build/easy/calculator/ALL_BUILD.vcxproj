@@ -25,7 +25,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{9A85F3E8-002D-34FD-BA70-F68C2C08C7F0}</ProjectGuid>
+    <ProjectGuid>{F5868D62-04E4-3FF1-8A56-017AC245CA06}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
@@ -108,11 +108,11 @@
     </Midl>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\QuanNTT\Documents\c++_project\easy\calculator\CMakeLists.txt">
+    <CustomBuild Include="E:\PUBLIC_GIT_REPO\c--_project\easy\calculator\CMakeLists.txt">
       <UseUtf8Encoding>Always</UseUtf8Encoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/QuanNTT/Documents/c++_project/easy/calculator/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule E:/PUBLIC_GIT_REPO/c--_project/easy/calculator/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/QuanNTT/Documents/c++_project -BC:/Users/QuanNTT/Documents/c++_project/build --check-stamp-file C:/Users/QuanNTT/Documents/c++_project/build/easy/calculator/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/PUBLIC_GIT_REPO/c--_project -BE:/PUBLIC_GIT_REPO/c--_project/build --check-stamp-file E:/PUBLIC_GIT_REPO/c--_project/build/easy/calculator/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -121,11 +121,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\QuanNTT\Documents\c++_project\build\easy\calculator\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">E:\PUBLIC_GIT_REPO\c--_project\build\easy\calculator\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/QuanNTT/Documents/c++_project/easy/calculator/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule E:/PUBLIC_GIT_REPO/c--_project/easy/calculator/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/QuanNTT/Documents/c++_project -BC:/Users/QuanNTT/Documents/c++_project/build --check-stamp-file C:/Users/QuanNTT/Documents/c++_project/build/easy/calculator/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/PUBLIC_GIT_REPO/c--_project -BE:/PUBLIC_GIT_REPO/c--_project/build --check-stamp-file E:/PUBLIC_GIT_REPO/c--_project/build/easy/calculator/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -134,11 +134,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\QuanNTT\Documents\c++_project\build\easy\calculator\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">E:\PUBLIC_GIT_REPO\c--_project\build\easy\calculator\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/QuanNTT/Documents/c++_project/easy/calculator/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule E:/PUBLIC_GIT_REPO/c--_project/easy/calculator/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
-"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/QuanNTT/Documents/c++_project -BC:/Users/QuanNTT/Documents/c++_project/build --check-stamp-file C:/Users/QuanNTT/Documents/c++_project/build/easy/calculator/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/PUBLIC_GIT_REPO/c--_project -BE:/PUBLIC_GIT_REPO/c--_project/build --check-stamp-file E:/PUBLIC_GIT_REPO/c--_project/build/easy/calculator/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -147,11 +147,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\QuanNTT\Documents\c++_project\build\easy\calculator\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">E:\PUBLIC_GIT_REPO\c--_project\build\easy\calculator\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/QuanNTT/Documents/c++_project/easy/calculator/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule E:/PUBLIC_GIT_REPO/c--_project/easy/calculator/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
-"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/QuanNTT/Documents/c++_project -BC:/Users/QuanNTT/Documents/c++_project/build --check-stamp-file C:/Users/QuanNTT/Documents/c++_project/build/easy/calculator/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/PUBLIC_GIT_REPO/c--_project -BE:/PUBLIC_GIT_REPO/c--_project/build --check-stamp-file E:/PUBLIC_GIT_REPO/c--_project/build/easy/calculator/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -160,7 +160,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\QuanNTT\Documents\c++_project\build\easy\calculator\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">E:\PUBLIC_GIT_REPO\c--_project\build\easy\calculator\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
@@ -168,14 +168,14 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="C:\Users\QuanNTT\Documents\c++_project\build\ZERO_CHECK.vcxproj">
-      <Project>{B5F2554D-F459-3419-9204-B204C7461F5C}</Project>
+    <ProjectReference Include="E:\PUBLIC_GIT_REPO\c--_project\build\ZERO_CHECK.vcxproj">
+      <Project>{4AE77D69-01B2-350B-B9D6-D51538F09717}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\QuanNTT\Documents\c++_project\build\easy\calculator\calculator.vcxproj">
-      <Project>{C376E55D-320E-3C6C-9DF1-6CC82B55D9E4}</Project>
+    <ProjectReference Include="E:\PUBLIC_GIT_REPO\c--_project\build\easy\calculator\calculator.vcxproj">
+      <Project>{1F066D18-364B-3F29-960D-0939A8F8835E}</Project>
       <Name>calculator</Name>
     </ProjectReference>
   </ItemGroup>
