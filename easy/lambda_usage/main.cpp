@@ -35,13 +35,11 @@ int main()
     copy(numbers.begin(), numbers.end(), ostream_iterator<int>(cout, " "));
     cout << "\n";
 
-
     // auto new_end = remove_if(numbers.begin(), numbers.end(),
     //                         [](int n) { return n % 2 == 0;});
     // numbers.erase(new_end, numbers.end());
 
     // erase + remove_if combo to filter out
-
     numbers.erase(remove_if(numbers.begin(), numbers.end(),
                             [](int n) { return n % 2 == 0;}),
                             numbers.end());
