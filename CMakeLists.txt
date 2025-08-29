@@ -15,3 +15,4 @@ add_subdirectory(easy/lambda_usage)
 
 add_subdirectory(medium/bank_account_system)
 add_subdirectory(medium/student_mng_system)
+add_subdirectory(medium/library_book_catalog)
